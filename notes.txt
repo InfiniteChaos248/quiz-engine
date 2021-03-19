@@ -1,0 +1,16 @@
+user
+
+quiz properties:
+name, id, QM, password
+intro and exit slides
+number of questions [question => text, image, description, options]
+question time
+types: MCQ, free, alacarte
+
+
+
+screens:
+login, signup and guest welcome view
+user dashboard
+QM dashboard
+[Quiz session] participant view, QM view

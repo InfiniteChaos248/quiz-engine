@@ -1,0 +1,12 @@
+# dependencies
+quiz-ui/node_modules
+
+# production
+/build
+/data
+
+#python
+\__pycache__
+
+# misc
+.vscode
